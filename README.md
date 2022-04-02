@@ -11,7 +11,7 @@ The purpose for this project is to review specifically from the Kickstarter data
 ## Analysis and Challenges
 
 ### Analysis of Outcomes Based on Launch Date
-![Outcomes Based on Launch Date Image](/01-Kickstarter/Resources/Outcomes%20Based%20on%20Launch%20Date.png)
+![Outcomes Based on Launch Date Image](/01-Kickstarter/Resources/Theater_Outcomes_vs_Launch.png)
 ### Analysis of Outcomes Based on Goals
 ![Outcomes Based on Goals Image](/01-Kickstarter/Resources/Outcomes_vs_Goals.png)
 
