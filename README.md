@@ -1,12 +1,16 @@
 # An Analysis of Kickstarter Campaigns
 
 ## Overview of Project
-At the beginning, we were introduced to Louise, an up and coming playwriter who wanted to start a crowdfunding campaign to help fund her play, Fever. She estimated a budget of over $10,000 and was hesitate in jumping into her first fundraising campaign and reached out for some helpful insights. She is hoping my analysis can discover if there are specific factors that makes a project's campaign successful and if so, we would be able to set her campaign to mirror other successful ones in the same categroy.
+At the beginning, we were introduced to Louise, an up and coming playwriter who wanted to start a crowdfunding campaign on Kickstarter to help fund her play, *Fever*. She estimated a budget of over $10,000 and was hesitate in jumping into her first fundraising campaign and reached out for some helpful insights. She was hoping my analysis can discover if there are any specific factors that makes a similar project's campaign successful and if so, we would be able to set her campaign to mirror other successful ones in the same category. Once that was completed, she requested this following project:
 
-She proceeded with her crowdfundraiser and Fever is already close to its fundraising goal in a short amount of time. But now she would like me to look specifically into how different campaigns fared in relation to their launch dates and their funding goals.
+Louise proceeded with her crowd fundraiser after the initial review and *Fever* is already close to it's fundraising goal in a short amount of time. But now she would like me to look specifically into how different campaigns fared in relation to their launch dates and their funding goals.
 
 ### Purpose
-The purpose for this project is to review specifically from the Kickstarter dataset two seperate relationships. The first one is regarding the outcomes of if it was successful, failed, or canceled by their launch month for the theater parent category. The second one is outcomes of if it was successful, failed, or canceled by their preselected goals sepecfically for the plays subcategory.  
+The purpose for this project is to review and visualize specifically from the Kickstarter dataset two seperate relationships. The first one is regarding the outcomes of if it was successful, failed, or canceled by their launch month for the theater parent category. The second one is outcomes of if it was successful, failed, or canceled by their preselected goals sepecfically for the plays subcategory. The requested deliverables from Louise are:
+
+- [x] Deliverable 1: Outcomes Based on Launch Date Chart
+- [x] Deliverable 2: Outcomes Based on Goals Chart
+- [x] Deliverable 3: Analysis of the Results
 
 ## Analysis and Challenges
 
