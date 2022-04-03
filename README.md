@@ -24,7 +24,7 @@ To complete the second deliverable focused on Plays category, I created a new sh
 ![Outcomes Based on Goals Image](/01-Kickstarter/Resources/Outcomes_vs_Goals.png)
 
 ### Challenges and Difficulties Encountered
-- I heavily referenced to the COUNTSIF() video that was included in the hint to assist me with creating the table that built the Outcomes Based on Goal. I was very glad that a checks and balance method was included so that I could check my work as well before going
+- I referenced to the COUNTSIF() guide to assist me with creating the table that built the Outcomes Based on Goal. I was very glad that a checks and balance method was included so that I could check my work. 
 - Initially, my graph for the Outcomes Based on Goals was not in the correct order to correctly depict the relationship because two of the rows has text with the numbers "Less Than 1000" and "50000 or More" so using the option for ascending or descending did not solve this problem. I was able to search and find a guide regarding different sorting options in a pivot table that was to illustrate how to achieve it without losing the data. 
 - From an aesthetics standpoint, I realized prior to pulling the screenshots that there were field buttons on the graphs and I searched and found how to remove all the field buttons so they will not take away from the visuals and the information they are portraying. 
 
